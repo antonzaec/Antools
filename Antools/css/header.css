@@ -1,0 +1,132 @@
+
+.header{
+	padding-top: 26px;
+}
+
+.container{
+	max-width: 1244px;
+	margin: 0 auto;
+	padding: 0 10px;
+}
+
+.header__wrapper{
+	display: flex;
+}
+
+.logo{
+	display: flex;
+	gap: 21.37px;
+	margin-right: 257px;
+	margin-left: 9.26px;
+	align-items: center;
+}
+
+.logo_text{
+	color: rgba(255, 255, 255, 0.90);
+	font-size: 22px;
+	font-weight: 600;
+	line-height: normal;
+}
+
+.navigation{
+	margin-right: 146px;
+	align-items: center;
+	display: flex;
+}
+
+.navigation__link{
+	color: rgba(255, 255, 255, 0.55);
+	font-size: 16px;
+	font-weight: 500;
+	line-height: normal;
+	margin-right: 41px;
+}
+
+.navigation__link_margin{
+	color: rgba(255, 255, 255, 0.55);
+	font-size: 16px;
+	font-weight: 500;
+	line-height: normal;
+	margin-right: 4px;
+}
+
+.navigation__arrow{
+	transform: rotate(180deg);
+	margin-right: 37px;
+}
+
+.navigation__arrow:hover{
+	transform: rotate(0deg);
+	transition-duration: 0.8s;
+}
+
+.btn{
+	color: rgba(255, 255, 255, 0.78);
+	background-color: #1E252B;
+	font-size: 16px;
+	font-weight: 600;
+	opacity: 0.7799999713897705;
+	margin-right: 32px;
+}
+
+.button_btn{
+	color: #FDF5FF;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: normal;
+	border-radius: 8px;
+	background: #FF6E30;
+	padding: 12px 28px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
