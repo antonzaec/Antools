@@ -1,0 +1,168 @@
+
+.aside {
+	padding-bottom: 200px;
+}
+
+.aside__subject {
+	color: rgba(255, 255, 255, 0.90);
+	text-align: center;
+	font-size: 48px;
+	font-weight: 500;
+	line-height: 130%; 
+	margin-bottom: 23px;
+}
+
+.aside__subtitle {
+	color: rgba(255, 255, 255, 0.55);
+	text-align: center;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 500;
+	line-height: 30px; 
+	margin-bottom: 110px;
+}
+
+.item {
+	padding-bottom: 100px;
+	display: flex;
+	gap: 25px;
+}
+
+.item__body {
+	padding: 33px;
+}
+
+.item__logo {
+	display: flex;
+}
+
+.item__svg {
+	margin-right: 30px;
+}
+
+.item__slogan {
+	color: rgba(255, 255, 255, 0.78);
+	font-size: 24px;
+	font-weight: 500;
+	line-height: normal;
+	margin-bottom: 3px;
+}
+
+.item__desc {
+	color: rgba(255, 165, 55, 0.55);
+	font-size: 18px;
+	line-height: normal;
+}
+
+.item__text {
+	color: rgba(255, 255, 255, 0.55);
+	font-size: 16px;
+	line-height: 30px; 
+	margin: 30px 0;
+}
+
+.item__row {
+	display: flex;
+	margin-left: 6px;
+}
+
+.item__icon{
+	margin-top: 5px;
+}
+
+.likee{
+	margin-right: 23px;
+	color: white;
+	opacity: 0.38;
+}
+
+.control {
+	margin-right: 128px;
+}
+
+.item__button {
+	width: 106px;
+	height: 42px;
+	border-radius: 8px;
+	background: #1E252B;
+	color: rgba(255, 255, 255, 0.55);
+	font-size: 16px;
+	font-weight: 600;
+	line-height: normal;
+}
+
+.item__body:hover {
+	padding-top: 25px;
+	border-radius: 15px;
+	background: rgba(40, 48, 54, 0.60);
+	backdrop-filter: blur(25px);
+}
+
+.item__button:hover {
+	border-radius: 8px;
+	background: #FF6E30;
+	color: #FFF;
+}
+
+.likee:hover{
+	color: #FD3B41;
+	opacity: 1;
+}
+
+.aside__button{
+	padding-bottom: 200px;
+}
+
+.aside__btn{
+	margin: 0 auto;
+	display: block;
+	width: 184px;
+	height: 64px;
+	border-radius: 8px;
+	border: 1px solid rgba(255, 255, 255, 0.10);
+	background: #1E252B;
+	color: #FF6E30;
+	font-size: 20px;
+	font-weight: 500;
+}
+
+.aside__brand{
+	border-radius: 25px;
+	background: rgba(44, 53, 61, 0.20);
+	backdrop-filter: blur(25px);
+}
+
+.aside__desc{
+	text-align: center;
+	padding: 55px ;
+	color: rgba(255, 255, 255, 0.80);
+	font-size: 24px;
+	font-weight: 500;
+	line-height: normal;
+}
+
+.row{
+	padding: 0 83px 56px 82px;
+	display: flex;
+	justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

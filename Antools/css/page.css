@@ -1,14 +1,92 @@
 
 .page{
-	
+	position: relative;	
+	padding-bottom: 211px;
 }
 
+.page__pic{
+	position: absolute;
+	right: 3px;
+	top: -46px;
+}
 
+.body__title{
+	color: rgba(255, 255, 255, 0.90);
+	font-size: 50px;
+	font-weight: 500;
+	line-height: 140%; 
+	margin-bottom: 30px;
+}
 
+.color_red{
+	color: #FF6E30;
+}
 
+.body__subtitle{
+	color: rgba(255, 255, 255, 0.55);
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 30px; 
+	margin-bottom: 60px;
+}
 
+.form{
+	display: flex;
+	width: 497.659px;
+	height: 64px;
+	border-radius: 15px;
+	background: #283036;
+}
 
+.icon{
+	margin: 20px 10px 20px 18px;
+}
 
+.form__input{
+	flex: 1 1 auto;
+	background: #283036;
+	color: rgba(255, 255, 255, 0.38);
+	font-size: 14px;
+}
+
+.form__button{
+	width: 130.435px;
+	height: 48px;
+	border-radius: 8px;
+	background: #FF6E30;
+	margin: 8px 11px 8px 0;
+	color: #FFF;
+	font-size: 16px;
+	font-weight: 600;
+}
+
+.socials{
+	padding-top: 120px;
+}
+
+.facebook{
+	margin-right: 28px;
+	margin-left: 12px;
+}
+
+.instagram{
+	margin-right: 26px;
+}
+
+.facebook:hover{
+	background: #FF6E30;
+	border-radius: 8px;
+}
+
+.instagram:hover{
+	background: #FF6E30;
+	border-radius: 8px;
+}
+
+.twitter:hover{
+	background: #FF6E30;
+	border-radius: 8px;
+}
 
 
 
